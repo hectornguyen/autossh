@@ -1,4 +1,7 @@
-CRIPTION: This is an SSH-D proxy with auto-reconnect on disconnect
+#!/bin/bash
+# ------------------------------------------------------------------------------
+# FILE: autossh
+# DESCRIPTION: This is an SSH-D proxy with auto-reconnect on disconnect
 # AUTHOR: Hector Nguyen (hectornguyen at octopius dot com)
 # VERSION: 1.0.0
 # ------------------------------------------------------------------------------

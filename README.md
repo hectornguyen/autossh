@@ -1,7 +1,7 @@
 # Installation
 
 ```bash
-sudo wget https://raw.github.com/nntoan/oh-my-zsh-custom/master/install.sh -O /usr/local/bin/autossh
+wget https://raw.github.com/hectornguyen/autossh/master/autossh.sh -O /usr/local/bin/autossh
 ```
 # Usage
 
